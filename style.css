@@ -1,0 +1,15 @@
+img{
+    height : 500px;
+}
+.leftbox{
+    float : left;
+    margin : 5px;
+}
+.rightbox{
+    float:right;
+    margin : 5px;
+}
+#row1,#row2{
+    display :flex;
+    justify-content: center;
+}
